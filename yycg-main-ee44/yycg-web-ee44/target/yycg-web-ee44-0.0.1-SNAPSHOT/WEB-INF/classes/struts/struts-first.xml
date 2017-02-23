@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+	<!-- 所有模块 package.name 必须唯一 * 访问路径：/user/findById.action -->
+	<package name="first" extends="base" namespace="/">
+		<action name="*" method="{1}" class="firstAction">
+			<result name="first">/first.jsp</result>
+		</action>
+	</package>
+
+</struts>

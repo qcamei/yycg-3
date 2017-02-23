@@ -1,0 +1,8 @@
+cn\itcast\yycg\system\service\impl\DwServiceImpl.class
+cn\itcast\yycg\user\pojo\SysUserQueryCustom.class
+cn\itcast\yycg\system\service\impl\SysDictInfoServiceImpl.class
+cn\itcast\yycg\system\service\DwService.class
+cn\itcast\yycg\user\service\impl\SysUserServiceImpl.class
+cn\itcast\yycg\user\pojo\SysUserCustom.class
+cn\itcast\yycg\user\service\SysUserService.class
+cn\itcast\yycg\system\service\SysDictInfoService.class
